@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: url('C:/Users/Mumu/Pictures/29_g9_headquarter.png') no-repeat center center fixed;
+  background-size: cover;
+  font-family: sans-serif; /* Specify your desired font-family */
+}
+
+.App {
+  text-align: center;
+}
